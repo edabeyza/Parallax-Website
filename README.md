@@ -1,4 +1,4 @@
-# Project-004: Parallax Website (HC-03)
+# Project-004: Parallax Website
 
 ## Description
 Project aims to create parallax website.
