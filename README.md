@@ -24,6 +24,10 @@ Build a Landing that is functionally similar to this: [Parallax Website](https:/
 
 ![Animation](https://user-images.githubusercontent.com/72518776/228081589-19238a47-d1a2-4632-862a-8679cf21ba00.gif)
 
+## Project Link
+
+https://parallax-website-clarusway.netlify.app/
+
 ## Technologies and Tools
 
 - HTML 
